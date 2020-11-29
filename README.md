@@ -9,3 +9,9 @@
 **Summary:** I deployed the MHN-Admin using Google CLoud Platform. I downloaded and installed the GCP SDK. I set up the region and zone as well as the firewall. I created the VM by following the steps on the Codepath Cybersecurity Course.
 
 <img src="mhn-admin.gif">
+
+### Dionaea Honeypot Deployment (Required)
+
+**Summary:** Dionaea is a type of Honeypot used to get information about malwares and malicious atteckers as well as their IP addresses, Geographic regions and Ports.
+
+<img src="Dioanaea Honeypot.gif">
