@@ -15,3 +15,12 @@
 **Summary:** Dionaea is a type of Honeypot used to get information about malwares and malicious atteckers as well as their IP addresses, Geographic regions and Ports.
 
 <img src="Dioanaea Honeypot.gif">
+
+
+
+#### Snort Honeypot
+
+**Summary:** Snort is a honeypot that can easily be used by a security researcher as an intrusion Detection System to monitor network traffic. 
+
+<img src="Honeypot-Snort.gif">
+
