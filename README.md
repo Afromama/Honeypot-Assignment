@@ -21,10 +21,9 @@
 
 ### Database Backup (Required) 
 
-**Summary:** MHN-Admin uses SQL (Structured Query Language) as a RDBMS.
+**Summary:** MHN-Admin uses SQL (Structured Query Language) as a RDBMS, Microsoft SQL Server 2000 to be precise.
 JSON file records the Attack Stats which includes destination IP address, timestamp, date, sensors, Honeypots and attacks signatures
-What is the RDBMS that MHN-Admin uses? 
-What information does the exported JSON file record?
+
 
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
 
@@ -48,7 +47,17 @@ What information does the exported JSON file record?
 
 ## Notes
 
+I left my honeypots running for 12 hours and it accumulated over four thousand attacks. Below is a gif showing the honeypots attack stats
+
+<img src="honeypot-attack-stats.gif">
+
+
 Describe any challenges encountered while doing the assignment.
 
 I set up Dionaea honeypot the first time and it had just one attack after running for 24hours.
 I also deployed Shockpot honeypot but for some reason, that wasn't attacked.
+Gif showing both failed attempts has been uploaded.
+
+<img src="Deployment Errors.gif">
+
+
